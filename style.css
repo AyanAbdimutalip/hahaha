@@ -1,0 +1,19 @@
+#body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    gap: 30px;
+}
+
+#kub{
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 500px;
+    height: 100px;
+    font-size: 30px;
+    text-align: center;
+    transition: all 0.5s;
+}
+
